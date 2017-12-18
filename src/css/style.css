@@ -90,3 +90,6 @@ footer#main-footer {
 
 #faq .card-body, #faq .card-header {
   background: #4f4f52; }
+
+input {
+  cursor: pointer; }
