@@ -78,3 +78,12 @@ footer#main-footer {
 
 #services .fa-times {
   color: red; }
+
+#faq .card {
+  border: #292828 1px solid; }
+  #faq .card a {
+    color: #fff;
+    text-decoration: none; }
+
+#faq .card-body, #faq .card-header {
+  background: #4f4f52; }
